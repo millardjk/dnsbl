@@ -34,3 +34,104 @@ vungle-imp.aarki.net
 winner-lb4-7a0500f2e84247b2.elb.us-east-1.amazonaws.com
 yandex.com.tr 
 youappi.com
+#
+62102.bar  # This domain is used by Chinese threat actors named "PeckyBird" originally found by TrendMicro in January 2026 and described as "a sophisticated JScript-based C&C framework used by China-aligned APT groups to exploit LOLBins across multiple environments, delivering advanced backdoors to target gambling industries and Asian government entities." This campaign essentially uses casino websites as a front for their C2 activities.
+api.mbs77.ru  # This indicator is used by a command-and-control server for the open-source red team toolkit Sliver.
+arqtsop.shop  # Domain extracted from malware configuration files identified in known malware samples. The malware establishes a connection to this domain and is highly likely to be used for C2 communication. Associated malware families: ['remusstealer']. Associated file hashes: {'865d76d478e2ccd75cec7e80f8b32053ba0a41f98e242e9b3316b74c9a7a9dd4'}. URLs: {'http://arqtsop.shop:9932/events'}.
+bhuspz.cc  # This domain is used by Chinese threat actors named "PeckyBird" originally found by TrendMicro in January 2026 and described as "a sophisticated JScript-based C&C framework used by China-aligned APT groups to exploit LOLBins across multiple environments, delivering advanced backdoors to target gambling industries and Asian government entities." This campaign essentially uses casino websites as a front for their C2 activities.
+billdex.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.billdex.best.
+billify.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.billify.best.
+bindkit.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.bindkit.shop.
+cliplab.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.cliplab.blog.
+clipmoo.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.clipmoo.best.
+clippie.xyz  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.clippie.xyz.
+clipvox.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.clipvox.best.
+clipwave.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.clipwave.best.
+colorlo.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.colorlo.blog.
+cronbox.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.cronbox.shop.
+cronly.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.cronly.blog.
+cryptkit.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.cryptkit.shop.
+danya.store  # Indicator reported in OSINT as a threat. It is likely associated with malware, either delivering it or acting as the C2.
+datafl.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.datafl.shop.
+debuzz.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.debuzz.best.
+dokio.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.dokio.blog.
+fluxbin.xyz  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.fluxbin.xyz.
+formly.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.formly.blog.
+gamepoe.xyz  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.gamepoe.xyz.
+gamesrc.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.gamesrc.shop.
+go-frame89.one  # Indicator reported in OSINT as a threat. It is likely associated with malware, either delivering it or acting as the C2.
+hexbit.xyz  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.hexbit.xyz.
+hookbin.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.hookbin.shop.
+hookly.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.hookly.blog.
+huegen.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.huegen.blog.
+iconicx.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.iconicx.shop.
+ikon.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.ikon.best.
+invicex.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.invicex.best.
+invoicx.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.invoicx.blog.
+jsonkit.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.jsonkit.blog.
+kniplink.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.kniplink.shop.
+latencylens.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.latencylens.shop.
+linklet.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.linklet.shop.
+mail.chen-tia.com  # The file(sha256: 47a52ffa6454c10ed8d15cd9f49fec6e177f6e7d681209ee9efa75caa58ac754) uses Living off the Land (LotL) methods, a malicious technique that involves abusing pre-built software on the victim's machine to execute attacks. This binary matches the threat signature "formbook". It also made connections to this network indicator. The domain involved in this attack was created on 2025-12-28.
+meshflow.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.meshflow.blog.
+mirrorix.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.mirrorix.blog.
+mirrorx.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.mirrorx.best.
+modhaven.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.modhaven.best.
+modhub.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.modhub.blog.
+myazbuk.network  # C2 domain of MIMICRAT, a custom native C RAT with malleable C2, token theft, and SOCKS5 tunneling.
+nodely.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.nodely.best.
+ns1.billkit.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.billkit.blog.
+packmir.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.packmir.blog.
+paletly.xyz  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.paletly.xyz.
+patchbay.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.patchbay.blog.
+patchly.games  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.patchly.games.
+patmatch.xyz  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.patmatch.xyz.
+paxo.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.paxo.blog.
+picgrab.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.picgrab.shop.
+pingly.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.pingly.blog.
+pixelflow.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.pixelflow.best.
+pixely.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.pixely.best.
+pkgmirror.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.pkgmirror.best.
+playdock.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.playdock.blog.
+pub-814de71aba7d4258ae0ca369fdb8002f.r2.dev  # Hostname extracted from malware configuration files identified in known malware samples. The malware establishes a connection to this hostname and is highly likely to be used for C2 communication. Associated malware families: []. Associated file hashes: {'ab5f742586899581352c7ebfb5db7f40d2b53bb817802e78e0938bcfdd72baf7'}. URLs: {'https://pub-814de71aba7d4258ae0ca369fdb8002f.r2.dev/WindowsExplorerSupport.msi'}.
+pulsely.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.pulsely.blog.
+pulzo.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.pulzo.shop.
+quantum-comet-6kg2nqmx.expresshost.cloud  # This indicator is used by a command-and-control server for the open-source red team toolkit Sliver.
+quorvo.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.quorvo.best.
+raybin.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.raybin.best.
+recover.btk.net.pl  # This indicator is used by a command-and-control server for the open-source red team toolkit Sliver.
+regexio.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.regexio.shop.
+regexly.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.regexly.blog.
+remarq.store  # Indicator reported in OSINT as a threat. It is likely associated with malware, either delivering it or acting as the C2.
+reneck.store  # Indicator reported in OSINT as a threat. It is likely associated with malware, either delivering it or acting as the C2.
+royar.store  # Indicator reported in OSINT as a threat. It is likely associated with malware, either delivering it or acting as the C2.
+sensync.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.sensync.best.
+sensync.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.sensync.shop.
+setpoint.kz  # This indicator is used by a command-and-control server for the open-source red team toolkit Sliver.
+shortzo.xyz  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.shortzo.xyz.
+snapapi.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.snapapi.blog.
+snaphot.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.snaphot.blog.
+snaply.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.snaply.blog.
+speedro.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.speedro.shop.
+ssgg11.com  # This domain is used by Chinese threat actors named "PeckyBird" originally found by TrendMicro in January 2026 and described as "a sophisticated JScript-based C&C framework used by China-aligned APT groups to exploit LOLBins across multiple environments, delivering advanced backdoors to target gambling industries and Asian government entities." This campaign essentially uses casino websites as a front for their C2 activities.
+statkit.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.statkit.shop.
+statusly.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.statusly.shop.
+statuso.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.statuso.shop.
+statuso.xyz  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.statuso.xyz.
+statusv.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.statusv.best.
+statvo.xyz  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.statvo.xyz.
+texly.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.texly.blog.
+uply.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.uply.blog.
+upstat.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.upstat.best.
+upstreamly.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.upstreamly.shop.
+vexio.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.vexio.blog.
+videokit.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.videokit.blog.
+voko.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.voko.blog.
+wallpap.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.wallpap.shop.
+webhookz.best  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.webhookz.best.
+xn--ndux-kza.store  # Indicator reported in OSINT as a threat. It is likely associated with malware, either delivering it or acting as the C2.
+yuyuxi.com  # The file(sha256: 113162a865f93c8aefd42fdb88a4048b69dc240c05dd024722e806ed36408c7f) uses Living off the Land (LotL) methods, a malicious technique that involves abusing pre-built software on the victim's machine to execute attacks. This binary matches the threat signature "virut". It also made connections to this network indicator. The domain involved in this attack was created on 2026-05-07.
+zenfa.store  # Indicator reported in OSINT as a threat. It is likely associated with malware, either delivering it or acting as the C2.
+zently.blog  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.zently.blog.
+zently.shop  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.zently.shop.
+zyncio.xyz  # Domain associated with an actor that is tracked by Infoblox. An example host was ns1.zyncio.xyz.
